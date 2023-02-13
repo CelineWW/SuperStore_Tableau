@@ -24,7 +24,7 @@
 
 ![Sales-Discount vs Profit](https://user-images.githubusercontent.com/105877888/218369342-519223c5-178a-4536-8690-42f5231ce657.png)
 
-## Interactive Sales Map
+## Interactive Sales Map with parameter
   - Top 15 state sales with bar chart
   - Top 15 state sales with highlight map
   - Top 15 state sales with map layer
@@ -35,4 +35,16 @@
 
   ![Sales Map](https://user-images.githubusercontent.com/105877888/218370219-8b7e3a5a-85b7-4258-8404-fda26f0f4f15.png)
 
+## Sales by Category
+
+  - Average Profit by Category (bubble chart)
+  - Sum of Profit by Category (pie chart)
+  - Sum of Sales by Category (pie chart)
   
+  ![Avg Profit by category](https://user-images.githubusercontent.com/105877888/218370722-901c72c5-4448-44d5-ac8d-10dd192eb15e.png)
+
+  ![Profit by Category](https://user-images.githubusercontent.com/105877888/218370803-1bb15f58-68eb-41ea-a49c-102a5a0f7b4d.png)
+
+
+  ![Sales by Category](https://user-images.githubusercontent.com/105877888/218370825-0f9ec1ea-2eae-41de-9f61-b6cb50db9a11.png)
+
