@@ -48,3 +48,13 @@
 
   ![Sales by Category](https://user-images.githubusercontent.com/105877888/218370825-0f9ec1ea-2eae-41de-9f61-b6cb50db9a11.png)
 
+## Customer Analysis
+  - Top Orders by Customer
+  - Returing Customer
+
+  ![Returning Customer](https://user-images.githubusercontent.com/105877888/218371029-976c229b-3522-4d8d-bd3f-c3d818afc346.png)
+  
+## Interacitve Dashboard with Year Filter
+  ![Dashboard](https://user-images.githubusercontent.com/105877888/218371161-1bc2454f-6568-414d-93b2-f139f06cecfd.png)
+
+
