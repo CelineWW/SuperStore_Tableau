@@ -34,12 +34,16 @@
   ![Top Sales Map](https://user-images.githubusercontent.com/105877888/218370143-7d07b692-d7ff-4e2d-86d9-507aeaea647b.png)
 
   ![Sales Map](https://user-images.githubusercontent.com/105877888/218370219-8b7e3a5a-85b7-4258-8404-fda26f0f4f15.png)
+  
+  ![Top Selling Products](https://user-images.githubusercontent.com/105877888/218394192-e5f789ab-ce9b-4769-b7cc-8f48c51b9076.png)
+
 
 ## Sales by Category
 
   - Average Profit by Category (bubble chart)
   - Sum of Profit by Category (pie chart)
   - Sum of Sales by Category (pie chart)
+  - Top Selling Products
   
   ![Avg Profit by category](https://user-images.githubusercontent.com/105877888/218370722-901c72c5-4448-44d5-ac8d-10dd192eb15e.png)
 
@@ -48,11 +52,30 @@
 
   ![Sales by Category](https://user-images.githubusercontent.com/105877888/218370825-0f9ec1ea-2eae-41de-9f61-b6cb50db9a11.png)
 
-## Customer Analysis
-  - Top Orders by Customer
+## Customer Analysis with parameter
+  - Top Customers
   - Returing Customer
+  - Retention Rate
+
+  ![Top 30 Customers](https://user-images.githubusercontent.com/105877888/218393845-f357a448-8cc1-4d3f-9a84-67d9103b9c9a.png)
 
   ![Returning Customer](https://user-images.githubusercontent.com/105877888/218371029-976c229b-3522-4d8d-bd3f-c3d818afc346.png)
+  
+  ![Retention Rate](https://user-images.githubusercontent.com/105877888/218393959-2d3759c0-2b22-4a82-a025-070994676c4c.png)
+  
+##  Sales Map
+  - Top Sales States
+  - Top Sales States Map
+  - Sales Map
+  
+
+![Top Sale States](https://user-images.githubusercontent.com/105877888/218394479-872292bf-4484-4341-b287-aa56a4f55d56.png)
+
+![Top Sale States](https://user-images.githubusercontent.com/105877888/218394616-73d646c4-682c-4c88-856b-28edc6edd338.png)
+
+![Sales Map](https://user-images.githubusercontent.com/105877888/218394638-fe371928-fcbf-44dc-843b-b3e328f4849c.png)
+
+
   
 ## Interacitve Dashboard with Year Filter
   ![Dashboard](https://user-images.githubusercontent.com/105877888/218371161-1bc2454f-6568-414d-93b2-f139f06cecfd.png)
