@@ -32,3 +32,7 @@
   ![Top Sale States](https://user-images.githubusercontent.com/105877888/218370119-77f5315a-f3b2-4ede-a188-c190e60f6b40.png)
 
   ![Top Sales Map](https://user-images.githubusercontent.com/105877888/218370143-7d07b692-d7ff-4e2d-86d9-507aeaea647b.png)
+
+  ![Sales Map](https://user-images.githubusercontent.com/105877888/218370219-8b7e3a5a-85b7-4258-8404-fda26f0f4f15.png)
+
+  
