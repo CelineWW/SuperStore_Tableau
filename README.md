@@ -1,4 +1,6 @@
 # SuperStore_Tableau_Analysis
+
+See [Tableau Public](https://public.tableau.com/app/profile/celine7593/viz/SuperStore_16767861451250/SuperStoreStory)
 ## Sales vs Order Date 
   -  Monthly Sales (line chart, heatmap, highlight table)
   
